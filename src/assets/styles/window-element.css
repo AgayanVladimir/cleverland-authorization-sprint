@@ -1,11 +1,12 @@
 .window {
-	background-color: #fff;
-	border-radius: 15px;
-	min-height: 30rem;
-	width: 30rem;
-	padding: 2.5rem;
+  background-color: #fff;
+  border-radius: 15px;
+  min-height: 30rem;
+  width: 100%;
+  max-width: 30rem;
+  padding: 2.5rem;
 }
 
-.window_white { 
-	background-color: #fff;
+.window_white {
+  background-color: #fff;
 }
